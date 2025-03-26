@@ -1,0 +1,5 @@
+#EXPNO24
+#usng sequential in build function length.out is a syntax
+even_seq<-seq(52,by=2,length.out=15)
+even_array<-matrix(even_seq,nrow=5,ncol=3,byrow=TRUE)
+print(even_array)

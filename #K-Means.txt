@@ -1,0 +1,5 @@
+#K-Means
+data(iris)
+set.seed(123)
+km <- kmeans(iris[, -5], centers = 3)
+table(km$cluster, iris$Species)

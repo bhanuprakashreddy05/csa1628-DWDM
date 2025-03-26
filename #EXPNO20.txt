@@ -1,0 +1,17 @@
+#EXPNO20
+# Define the vectors
+vector1 <- c(1, 2, 3, 4, 5, 6, 7, 8, 9)
+vector2 <- c(10, 11, 12, 13, 14, 15, 16, 17, 18)
+
+# Create the matrices
+matrix1 <- matrix(vector1, nrow = 3, ncol = 3)
+matrix2 <- matrix(vector2, nrow = 3, ncol = 3)
+
+# Create an array of the two matrices
+array_of_matrices <- array(c(matrix1, matrix2), dim = c(3, 3, 2))
+
+# Print the second row of the second matrix
+print(array_of_matrices[2,,2])
+
+# Print the element in the 3rd row and 3rd column of the 1st matrix
+print(array_of_matrices[3,3,1])

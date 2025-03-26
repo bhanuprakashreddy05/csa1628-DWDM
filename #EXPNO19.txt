@@ -1,0 +1,10 @@
+#EXPNO19
+#creating vectors EXPNO 19
+create_list<-function(){
+  vector1<-c(1,2,3,4,5)
+  vector2<-c("A","B","C")
+  mat1<-matrix(1:9,nrow=3,ncol=3)
+  mylist<-list(vector1=vector1,vector2=vector2,mat1=mat1)
+  return(mylist)
+}
+print(create_list())

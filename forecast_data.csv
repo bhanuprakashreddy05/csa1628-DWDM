@@ -1,0 +1,381 @@
+Name,Date time,Temperature,Wind Chill,Heat Index,Chance Precipitation (%),Precipitation,Snow,Snow Depth,Wind Speed,Wind Gust,Visibility,Cloud Cover,Relative Humidity,Conditions
+"Ambattur, Chennai, TN, India",01-01-21 12:30,80,,,0,0,,,15.9,17.4,15,93,64,Overcast
+"Ambattur, Chennai, TN, India",01-01-21 13:30,79.4,,,0,0,,,16.3,18.1,15,96,65.3,Overcast
+"Ambattur, Chennai, TN, India",01-01-21 14:30,79.6,,,0,0,,,16.3,18.3,15,95,64.5,Overcast
+"Ambattur, Chennai, TN, India",01-01-21 15:30,79.2,,,0,0,,,16.8,18.8,15,96,65.8,Overcast
+"Ambattur, Chennai, TN, India",01-01-21 16:30,78.7,,,0,0,,,16.1,18.3,15,89,66.6,Overcast
+"Ambattur, Chennai, TN, India",01-01-21 17:30,77.8,,,0,0,,,15.4,18.1,15,75,68.9,Partially cloudy
+"Ambattur, Chennai, TN, India",01-01-21 18:30,76.9,,,0,0,,,14.3,17.7,15,14,70.4,Clear
+"Ambattur, Chennai, TN, India",01-01-21 19:30,76.7,,,0,0,,,13.2,16.6,15,17,71.4,Clear
+"Ambattur, Chennai, TN, India",01-01-21 20:30,76.4,,,0,0,,,12.3,15.7,15,20,72.4,Clear
+"Ambattur, Chennai, TN, India",01-01-21 21:30,76.6,,,0,0,,,11,14.3,15,34,72.5,Partially cloudy
+"Ambattur, Chennai, TN, India",01-01-21 22:30,76.7,,,0,0,,,10.7,14.1,15,46,72.5,Partially cloudy
+"Ambattur, Chennai, TN, India",01-01-21 23:30,76.2,,,0,0,,,10.5,13.6,15,49,74.3,Partially cloudy
+"Ambattur, Chennai, TN, India",01-02-21 0:30,76.2,,,0,0,,,10.1,13.2,15,34,75.1,Partially cloudy
+"Ambattur, Chennai, TN, India",01-02-21 1:30,76.4,,,0,0,,,10.3,13.4,15,55,75.5,Partially cloudy
+"Ambattur, Chennai, TN, India",01-02-21 2:30,76.4,,,0,0,,,10.5,13.9,15,69,76.8,Partially cloudy
+"Ambattur, Chennai, TN, India",01-02-21 3:30,75.8,,,0,0,,,11.2,15,15,70,78.5,Partially cloudy
+"Ambattur, Chennai, TN, India",01-02-21 4:30,75.1,,,0,0,,,10.5,14.5,15,56,80.5,Partially cloudy
+"Ambattur, Chennai, TN, India",01-02-21 5:30,75.3,,,0,0,,,11,15.2,15,54,80,Partially cloudy
+"Ambattur, Chennai, TN, India",01-02-21 6:30,75.6,,,38,0,,,11.2,15.9,13.9,98,79.6,Overcast
+"Ambattur, Chennai, TN, India",01-02-21 7:30,76.2,,,38,0,,,12.5,17,15,99,80.3,Overcast
+"Ambattur, Chennai, TN, India",01-02-21 8:30,76.9,,,38,0,,,14.5,18.6,14.4,99,80,Overcast
+"Ambattur, Chennai, TN, India",01-02-21 9:30,77.4,,,38,0.01,,,16.1,19.7,13.5,99,79,Overcast
+"Ambattur, Chennai, TN, India",01-02-21 10:30,78,,,38,0,,,16.3,20.1,14.7,100,77.9,Overcast
+"Ambattur, Chennai, TN, India",01-02-21 11:30,79.1,,,38,0.01,,,16.6,19.7,11.5,98,75.9,Overcast
+"Ambattur, Chennai, TN, India",01-02-21 12:30,79.2,,,66.6,0.01,,,17.2,19.9,10.9,87,75.6,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-02-21 13:30,79.6,,,66.6,0.02,,,17.9,20.6,12.5,85,75.3,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-02-21 14:30,79.2,,,66.6,0.02,,,18.1,21,10.7,82,75.8,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-02-21 15:30,78.9,,,66.6,0.01,,,17.7,21,14,86,76.6,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-02-21 16:30,78.3,,,66.6,0.01,,,17,20.8,13.4,88,77.4,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-02-21 17:30,78,,,66.6,0,,,17.2,21.3,15,90,78.5,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-02-21 18:30,77.8,,,33.2,0,,,16.8,21,15,98,78.5,Overcast
+"Ambattur, Chennai, TN, India",01-02-21 19:30,77.8,,,33.2,0,,,15.9,20.1,15,99,77.9,Overcast
+"Ambattur, Chennai, TN, India",01-02-21 20:30,77.8,,,33.2,0,,,14.8,19,15,99,77.5,Overcast
+"Ambattur, Chennai, TN, India",01-02-21 21:30,77.3,,,33.2,0,,,13.4,17.7,15,85,78.5,Overcast
+"Ambattur, Chennai, TN, India",01-02-21 22:30,77.1,,,33.2,0,,,13.4,17.7,15,82,79.9,Overcast
+"Ambattur, Chennai, TN, India",01-02-21 23:30,77.1,,,33.2,0,,,13.9,18.3,15,85,80.5,Overcast
+"Ambattur, Chennai, TN, India",01-03-21 0:30,76.9,,,42.9,0,,,14.1,18.6,15,100,80.9,Overcast
+"Ambattur, Chennai, TN, India",01-03-21 1:30,76.7,,,42.9,0,,,14.3,18.6,15,100,81,Overcast
+"Ambattur, Chennai, TN, India",01-03-21 2:30,76.6,,,42.9,0,,,13.9,18.1,15,100,81,Overcast
+"Ambattur, Chennai, TN, India",01-03-21 3:30,76.4,,,42.9,0,,,13.4,17.4,15,100,81.5,Overcast
+"Ambattur, Chennai, TN, India",01-03-21 4:30,76.2,,,42.9,0,,,13.6,17.7,15,94,82,Overcast
+"Ambattur, Chennai, TN, India",01-03-21 5:30,76.2,,,42.9,0,,,13.4,17.7,15,83,81.5,Overcast
+"Ambattur, Chennai, TN, India",01-03-21 6:30,76.2,,,38,0,,,13,17.7,15,10,81.1,Clear
+"Ambattur, Chennai, TN, India",01-03-21 7:30,76.9,,,38,0,,,13.2,17,15,6,79.5,Clear
+"Ambattur, Chennai, TN, India",01-03-21 8:30,78.2,,,38,0,,,14.1,16.8,15,7,77,Clear
+"Ambattur, Chennai, TN, India",01-03-21 9:30,78.9,,,38,0,,,14.8,17.2,15,28,75.9,Partially cloudy
+"Ambattur, Chennai, TN, India",01-03-21 10:30,79.1,,,38,0.01,,,14.8,17.4,15,42,75.9,Partially cloudy
+"Ambattur, Chennai, TN, India",01-03-21 11:30,79.4,,,38,0,,,15.2,17.7,15,52,75.8,Partially cloudy
+"Ambattur, Chennai, TN, India",01-03-21 12:30,80.1,,83.7,38,0.01,,,15.9,17.9,13.3,82,74,Overcast
+"Ambattur, Chennai, TN, India",01-03-21 13:30,79.8,,,38,0.01,,,15.9,17.9,14.5,90,74.6,Overcast
+"Ambattur, Chennai, TN, India",01-03-21 14:30,79.2,,,38,0.01,,,15.9,18.1,14.6,93,76,Overcast
+"Ambattur, Chennai, TN, India",01-03-21 15:30,78.7,,,38,0.01,,,15.9,18.6,14.8,95,77.1,Overcast
+"Ambattur, Chennai, TN, India",01-03-21 16:30,78.3,,,38,0.01,,,15.2,18.6,13,96,78.4,Overcast
+"Ambattur, Chennai, TN, India",01-03-21 17:30,78,,,38,0.01,,,15.2,19,15,97,78.9,Overcast
+"Ambattur, Chennai, TN, India",01-03-21 18:30,77.6,,,23.7,0,,,15.9,19.9,14.8,100,79.5,Overcast
+"Ambattur, Chennai, TN, India",01-03-21 19:30,77.8,,,23.7,0.01,,,16.3,20.4,15,100,78.9,Overcast
+"Ambattur, Chennai, TN, India",01-03-21 20:30,77.8,,,23.7,0,,,16.1,19.9,15,100,78.3,Overcast
+"Ambattur, Chennai, TN, India",01-03-21 21:30,77.6,,,23.7,0,,,15,19,15,99,77.5,Overcast
+"Ambattur, Chennai, TN, India",01-03-21 22:30,77.3,,,23.7,0,,,14.1,17.9,15,90,77.8,Overcast
+"Ambattur, Chennai, TN, India",01-03-21 23:30,76.9,,,23.7,0,,,13.6,17.4,15,83,78.3,Overcast
+"Ambattur, Chennai, TN, India",01-04-21 0:30,76.7,,,19,0,,,12.8,16.3,15,16,77.9,Clear
+"Ambattur, Chennai, TN, India",01-04-21 1:30,76.6,,,19,0,,,12.1,15.7,15,18,78,Clear
+"Ambattur, Chennai, TN, India",01-04-21 2:30,76.6,,,19,0,,,12.5,15.9,15,40,77.8,Partially cloudy
+"Ambattur, Chennai, TN, India",01-04-21 3:30,76.2,,,19,0,,,12.8,16.6,15,44,78.6,Partially cloudy
+"Ambattur, Chennai, TN, India",01-04-21 4:30,76.2,,,19,0,,,13,17,15,47,78.8,Partially cloudy
+"Ambattur, Chennai, TN, India",01-04-21 5:30,76.4,,,19,0,,,12.8,16.3,15,52,78.5,Partially cloudy
+"Ambattur, Chennai, TN, India",01-04-21 6:30,76.6,,,14.3,0,,,13.2,16.6,15,98,77.5,Overcast
+"Ambattur, Chennai, TN, India",01-04-21 7:30,77.1,,,14.3,0,,,13.2,16.1,15,64,76,Partially cloudy
+"Ambattur, Chennai, TN, India",01-04-21 8:30,78,,,14.3,0,,,13.9,15,15,45,72.9,Partially cloudy
+"Ambattur, Chennai, TN, India",01-04-21 9:30,78.5,,,14.3,0,,,14.5,15.4,15,56,71.3,Partially cloudy
+"Ambattur, Chennai, TN, India",01-04-21 10:30,78.9,,,14.3,0,,,14.1,15,15,64,69.6,Partially cloudy
+"Ambattur, Chennai, TN, India",01-04-21 11:30,79.4,,,14.3,0,,,13.4,15,15,70,68.3,Partially cloudy
+"Ambattur, Chennai, TN, India",01-04-21 12:30,80.1,,82.9,9.5,0,,,13.4,14.8,15,84,67.5,Overcast
+"Ambattur, Chennai, TN, India",01-04-21 13:30,79.6,,,9.5,0,,,13.2,14.3,15,61,68.9,Partially cloudy
+"Ambattur, Chennai, TN, India",01-04-21 14:30,79.6,,,9.5,0,,,13.6,14.3,15,67,69.4,Partially cloudy
+"Ambattur, Chennai, TN, India",01-04-21 15:30,79.6,,,9.5,0,,,13.9,14.1,15,65,69.5,Partially cloudy
+"Ambattur, Chennai, TN, India",01-04-21 16:30,78.9,,,9.5,0,,,13.6,14.8,15,61,71,Partially cloudy
+"Ambattur, Chennai, TN, India",01-04-21 17:30,78.2,,,9.5,0,,,13.4,15.7,15,61,73.6,Partially cloudy
+"Ambattur, Chennai, TN, India",01-04-21 18:30,77.4,,,4.8,0,,,13.2,16.8,15,13,75.6,Clear
+"Ambattur, Chennai, TN, India",01-04-21 19:30,77.3,,,4.8,0,,,12.5,16.6,15,16,76.3,Clear
+"Ambattur, Chennai, TN, India",01-04-21 20:30,77.3,,,4.8,0,,,12.5,16.6,15,28,76.5,Partially cloudy
+"Ambattur, Chennai, TN, India",01-04-21 21:30,77.3,,,4.8,0,,,11.9,15.7,15,25,76.8,Clear
+"Ambattur, Chennai, TN, India",01-04-21 22:30,76.9,,,4.8,0,,,11.6,15.2,15,23,77.8,Clear
+"Ambattur, Chennai, TN, India",01-04-21 23:30,76.7,,,4.8,0,,,11.2,14.5,15,19,79,Clear
+"Ambattur, Chennai, TN, India",01-05-21 0:30,76.4,,,19,0,,,11,14.3,15,0,80.4,Clear
+"Ambattur, Chennai, TN, India",01-05-21 1:30,76.2,,,19,0,,,10.7,14.3,15,1,81.5,Clear
+"Ambattur, Chennai, TN, India",01-05-21 2:30,76.2,,,19,0,,,10.5,14.3,15,6,81,Clear
+"Ambattur, Chennai, TN, India",01-05-21 3:30,76,,,19,0,,,11,14.8,15,14,81.1,Clear
+"Ambattur, Chennai, TN, India",01-05-21 4:30,75.6,,,19,0,,,11.2,15.2,15,12,81.9,Clear
+"Ambattur, Chennai, TN, India",01-05-21 5:30,75.6,,,19,0,,,10.7,15,15,12,82.4,Clear
+"Ambattur, Chennai, TN, India",01-05-21 6:30,75.8,,,38,0,,,11.4,15.7,15,51,82,Partially cloudy
+"Ambattur, Chennai, TN, India",01-05-21 7:30,76.2,,,38,0,,,11.9,16.1,15,64,81.1,Partially cloudy
+"Ambattur, Chennai, TN, India",01-05-21 8:30,77.1,,,38,0,,,12.1,15.7,15,76,79.5,Overcast
+"Ambattur, Chennai, TN, India",01-05-21 9:30,78.3,,,38,0,,,12.3,15,15,80,76.8,Overcast
+"Ambattur, Chennai, TN, India",01-05-21 10:30,79.4,,,38,0,,,13,14.8,15,83,74.5,Overcast
+"Ambattur, Chennai, TN, India",01-05-21 11:30,79.2,,,38,0,,,12.5,14.5,15,86,75.5,Overcast
+"Ambattur, Chennai, TN, India",01-05-21 12:30,79.2,,,47.5,0,,,13,15.2,15,100,76,Overcast
+"Ambattur, Chennai, TN, India",01-05-21 13:30,79.2,,,47.5,0,,,13,15.7,11.8,95,76.5,Overcast
+"Ambattur, Chennai, TN, India",01-05-21 14:30,78.9,,,47.5,0.01,,,13,16.1,10.2,97,78,Overcast
+"Ambattur, Chennai, TN, India",01-05-21 15:30,78.7,,,47.5,0.01,,,13,16.3,9.6,98,79.3,Overcast
+"Ambattur, Chennai, TN, India",01-05-21 16:30,78.9,,,47.5,0.01,,,13.9,16.6,15,98,79,Overcast
+"Ambattur, Chennai, TN, India",01-05-21 17:30,78.3,,,47.5,0,,,13.4,17,15,98,81.4,Overcast
+"Ambattur, Chennai, TN, India",01-05-21 18:30,78.2,,,42.9,0,,,13,17,15,100,82.1,Overcast
+"Ambattur, Chennai, TN, India",01-05-21 19:30,78.2,,,42.9,0,,,13,17.2,15,100,82.5,Overcast
+"Ambattur, Chennai, TN, India",01-05-21 20:30,78.2,,,42.9,0,,,12.5,17,15,100,83,Overcast
+"Ambattur, Chennai, TN, India",01-05-21 21:30,78.3,,,42.9,0,,,12.1,16.3,15,100,83.6,Overcast
+"Ambattur, Chennai, TN, India",01-05-21 22:30,78.2,,,42.9,0.01,,,12.1,16.3,14.2,100,84.3,Overcast
+"Ambattur, Chennai, TN, India",01-05-21 23:30,78,,,42.9,0,,,11.6,15.9,14.8,100,84.5,Overcast
+"Ambattur, Chennai, TN, India",01-06-21 0:30,77.7,,,61.9,0.03,,,11.3,15.5,11.2,100,85.3,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-06-21 1:30,77.5,,,61.9,0.03,,,11,15.1,7.5,100,86,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-06-21 2:30,77.3,,,61.9,0.03,,,10.7,14.8,3.9,100,86.8,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-06-21 3:30,77.5,,,61.9,0.07,,,10.9,15.1,3.8,100,86.6,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-06-21 4:30,77.6,,,61.9,0.07,,,11,15.4,3.7,100,86.3,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-06-21 5:30,77.8,,,61.9,0.07,,,11.2,15.7,3.5,100,86.1,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-06-21 6:30,78,,,61.9,0.05,,,11.4,15.7,7,100,85.6,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-06-21 7:30,78.2,,,61.9,0.05,,,11.6,15.7,10.4,100,85,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-06-21 8:30,78.3,,,61.9,0.05,,,11.9,15.7,13.9,100,84.5,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-06-21 9:30,79,,,61.9,0.01,,,11.8,14.9,14.2,98,82.2,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-06-21 10:30,79.7,,,61.9,0.01,,,11.7,14.2,14.6,96,79.8,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-06-21 11:30,80.3,,84.6,61.9,0.01,,,11.6,13.4,15,94,77.5,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-06-21 12:30,80.6,,84.9,52.4,0,,,12,13.2,15,85.7,76.7,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-06-21 13:30,80.8,,85.3,52.4,0,,,12.4,13,15,77.3,75.9,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-06-21 14:30,81.1,,85.6,52.4,0,,,12.8,12.8,15,69,75.1,"Rain, Partially cloudy"
+"Ambattur, Chennai, TN, India",01-06-21 15:30,80.4,,84.5,52.4,0,,,12.5,13.4,15,74,76.6,"Rain, Partially cloudy"
+"Ambattur, Chennai, TN, India",01-06-21 16:30,79.7,,,52.4,0,,,12.2,14.1,15,79,78.1,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-06-21 17:30,79.1,,,52.4,0,,,11.9,14.8,15,84,79.6,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-06-21 18:30,78.8,,,28.6,0,,,11.3,14.4,15,78,80.4,Overcast
+"Ambattur, Chennai, TN, India",01-06-21 19:30,78.6,,,28.6,0,,,10.8,14,15,72,81.3,Partially cloudy
+"Ambattur, Chennai, TN, India",01-06-21 20:30,78.3,,,28.6,0,,,10.3,13.6,15,66,82.1,Partially cloudy
+"Ambattur, Chennai, TN, India",01-06-21 21:30,78.3,,,28.6,0,,,9.8,12.8,15,69.7,82,Partially cloudy
+"Ambattur, Chennai, TN, India",01-06-21 22:30,78.2,,,28.6,0,,,9.2,11.9,15,73.3,81.9,Partially cloudy
+"Ambattur, Chennai, TN, India",01-06-21 23:30,78.2,,,28.6,0,,,8.7,11,15,77,81.8,Overcast
+"Ambattur, Chennai, TN, India",01-07-21 0:30,77.8,,,19,0,,,8.8,11.1,15,84.7,82.8,Overcast
+"Ambattur, Chennai, TN, India",01-07-21 1:30,77.4,,,19,0,,,8.9,11.3,15,92.3,83.8,Overcast
+"Ambattur, Chennai, TN, India",01-07-21 2:30,77.1,,,19,0,,,8.9,11.4,15,100,84.8,Overcast
+"Ambattur, Chennai, TN, India",01-07-21 3:30,77,,,19,0,,,8.7,11.3,15,94.7,84.8,Overcast
+"Ambattur, Chennai, TN, India",01-07-21 4:30,76.8,,,19,0,,,8.5,11.1,15,89.3,84.8,Overcast
+"Ambattur, Chennai, TN, India",01-07-21 5:30,76.7,,,19,0,,,8.3,11,15,84,84.8,Overcast
+"Ambattur, Chennai, TN, India",01-07-21 6:30,77.3,,,23.7,0,,,8.8,11.3,15,66.3,83.5,Partially cloudy
+"Ambattur, Chennai, TN, India",01-07-21 7:30,77.8,,,23.7,0,,,9.3,11.7,15,48.7,82.3,Partially cloudy
+"Ambattur, Chennai, TN, India",01-07-21 8:30,78.3,,,23.7,0,,,9.8,12.1,15,31,81,Partially cloudy
+"Ambattur, Chennai, TN, India",01-07-21 9:30,79.4,,,23.7,0,,,11,12.6,15,27,78,Partially cloudy
+"Ambattur, Chennai, TN, India",01-07-21 10:30,80.4,,84.3,23.7,0,,,12.1,13.1,15,23,75,Clear
+"Ambattur, Chennai, TN, India",01-07-21 11:30,81.4,,85.7,23.7,0,,,13.2,13.6,15,19,72,Clear
+"Ambattur, Chennai, TN, India",01-07-21 12:30,81.3,,85.4,19,0,,,13.3,13.9,15,30.3,71.7,Partially cloudy
+"Ambattur, Chennai, TN, India",01-07-21 13:30,81.2,,85.2,19,0,,,13.5,14.1,15,41.7,71.3,Partially cloudy
+"Ambattur, Chennai, TN, India",01-07-21 14:30,81.1,,84.9,19,0,,,13.6,14.3,15,53,71,Partially cloudy
+"Ambattur, Chennai, TN, India",01-07-21 15:30,80.4,,84,19,0,,,13.3,14.8,15,54.3,72.6,Partially cloudy
+"Ambattur, Chennai, TN, India",01-07-21 16:30,79.7,,,19,0,,,13,15.2,15,55.7,74.3,Partially cloudy
+"Ambattur, Chennai, TN, India",01-07-21 17:30,79.1,,,19,0,,,12.8,15.7,15,57,75.9,Partially cloudy
+"Ambattur, Chennai, TN, India",01-07-21 18:30,78.7,,,0,0,,,12.4,15.6,15,71,76.9,Partially cloudy
+"Ambattur, Chennai, TN, India",01-07-21 19:30,78.3,,,0,0,,,12,15.5,15,85,78,Overcast
+"Ambattur, Chennai, TN, India",01-07-21 20:30,78,,,0,0,,,11.6,15.4,15,99,79,Overcast
+"Ambattur, Chennai, TN, India",01-07-21 21:30,77.8,,,0,0,,,11,14.6,15,99,78.8,Overcast
+"Ambattur, Chennai, TN, India",01-07-21 22:30,77.6,,,0,0,,,10.3,13.8,15,99,78.7,Overcast
+"Ambattur, Chennai, TN, India",01-07-21 23:30,77.4,,,0,0,,,9.6,13,15,99,78.5,Overcast
+"Ambattur, Chennai, TN, India",01-08-21 0:30,77.1,,,9.5,0,,,9,12.2,15,84.7,79,Overcast
+"Ambattur, Chennai, TN, India",01-08-21 1:30,76.7,,,9.5,0,,,8.4,11.3,15,70.3,79.6,Partially cloudy
+"Ambattur, Chennai, TN, India",01-08-21 2:30,76.4,,,9.5,0,,,7.8,10.5,15,56,80.1,Partially cloudy
+"Ambattur, Chennai, TN, India",01-08-21 3:30,76.1,,,9.5,0,,,8.3,11.2,15,50.3,80.6,Partially cloudy
+"Ambattur, Chennai, TN, India",01-08-21 4:30,75.9,,,9.5,0,,,8.7,11.9,15,44.7,81,Partially cloudy
+"Ambattur, Chennai, TN, India",01-08-21 5:30,75.6,,,9.5,0,,,9.2,12.5,15,39,81.5,Partially cloudy
+"Ambattur, Chennai, TN, India",01-08-21 6:30,76.2,,,14.3,0,,,10,13.5,15,31.7,80.7,Partially cloudy
+"Ambattur, Chennai, TN, India",01-08-21 7:30,76.8,,,14.3,0,,,10.8,14.5,15,24.3,79.9,Clear
+"Ambattur, Chennai, TN, India",01-08-21 8:30,77.4,,,14.3,0,,,11.6,15.4,15,17,79.1,Clear
+"Ambattur, Chennai, TN, India",01-08-21 9:30,78.6,,,14.3,0,,,12.5,15.4,15,18.7,76.5,Clear
+"Ambattur, Chennai, TN, India",01-08-21 10:30,79.8,,,14.3,0,,,13.3,15.4,15,20.3,73.9,Clear
+"Ambattur, Chennai, TN, India",01-08-21 11:30,81.1,,84.9,14.3,0,,,14.1,15.4,15,22,71.3,Clear
+"Ambattur, Chennai, TN, India",01-08-21 12:30,81.1,,85,14.3,0,,,14.6,16,15,21.3,71.4,Clear
+"Ambattur, Chennai, TN, India",01-08-21 13:30,81.1,,85,14.3,0,,,15.1,16.6,15,20.7,71.5,Clear
+"Ambattur, Chennai, TN, India",01-08-21 14:30,81.1,,85,14.3,0,,,15.7,17.2,15,20,71.6,Clear
+"Ambattur, Chennai, TN, India",01-08-21 15:30,80.5,,84.3,14.3,0,,,15.8,18.2,14.1,30.7,73.7,Partially cloudy
+"Ambattur, Chennai, TN, India",01-08-21 16:30,80,,,14.3,0,,,16,19.2,13.2,41.3,75.7,Partially cloudy
+"Ambattur, Chennai, TN, India",01-08-21 17:30,79.4,,,14.3,0,,,16.1,20.1,12.2,52,77.8,Partially cloudy
+"Ambattur, Chennai, TN, India",01-08-21 18:30,79.1,,,14.3,0.02,,,15.3,19.8,10.4,68,79.7,Partially cloudy
+"Ambattur, Chennai, TN, India",01-08-21 19:30,78.7,,,14.3,0.02,,,14.5,19.4,8.5,84,81.5,Overcast
+"Ambattur, Chennai, TN, India",01-08-21 20:30,78.3,,,14.3,0.02,,,13.6,19,6.6,100,83.4,Overcast
+"Ambattur, Chennai, TN, India",01-08-21 21:30,77.9,,,14.3,0.08,,,13.4,18.7,5.7,100,85,Overcast
+"Ambattur, Chennai, TN, India",01-08-21 22:30,77.5,,,14.3,0.08,,,13.2,18.4,4.7,100,86.7,Overcast
+"Ambattur, Chennai, TN, India",01-08-21 23:30,77.1,,,14.3,0.08,,,13,18.1,3.7,100,88.3,Overcast
+"Ambattur, Chennai, TN, India",01-09-21 0:30,76.8,,,28.6,0.1,,,13.8,19.4,3.2,100,89,Overcast
+"Ambattur, Chennai, TN, India",01-09-21 1:30,76.5,,,28.6,0.1,,,14.6,20.7,2.7,100,89.8,Overcast
+"Ambattur, Chennai, TN, India",01-09-21 2:30,76.2,,,28.6,0.1,,,15.4,21.9,2.2,100,90.5,Overcast
+"Ambattur, Chennai, TN, India",01-09-21 3:30,75.8,,,28.6,0.3,,,16.3,22.4,2,100,91.5,Overcast
+"Ambattur, Chennai, TN, India",01-09-21 4:30,75.5,,,28.6,0.3,,,17.1,22.8,1.8,100,92.5,Overcast
+"Ambattur, Chennai, TN, India",01-09-21 5:30,75.1,,,28.6,0.3,,,17.9,23.3,1.6,100,93.5,Overcast
+"Ambattur, Chennai, TN, India",01-09-21 6:30,75.7,,,42.9,0.11,,,17.2,23.3,2.1,100,92.2,Overcast
+"Ambattur, Chennai, TN, India",01-09-21 7:30,76.2,,,42.9,0.11,,,16.6,23.3,2.6,100,90.8,Overcast
+"Ambattur, Chennai, TN, India",01-09-21 8:30,76.7,,,42.9,0.11,,,15.9,23.3,3.2,100,89.5,Overcast
+"Ambattur, Chennai, TN, India",01-09-21 9:30,77.8,,,42.9,0.07,,,17.4,24.5,3.5,100,87,Overcast
+"Ambattur, Chennai, TN, India",01-09-21 10:30,78.9,,,42.9,0.07,,,19,25.7,3.9,100,84.6,Overcast
+"Ambattur, Chennai, TN, India",01-09-21 11:30,80,,,42.9,0.07,,,20.6,26.8,4.2,100,82.1,Overcast
+"Ambattur, Chennai, TN, India",01-09-21 12:30,79.9,,,47.5,0.09,,,20.7,27.3,3.9,100,82.4,Overcast
+"Ambattur, Chennai, TN, India",01-09-21 13:30,79.9,,,47.5,0.09,,,20.7,27.7,3.5,100,82.8,Overcast
+"Ambattur, Chennai, TN, India",01-09-21 14:30,79.8,,,47.5,0.09,,,20.8,28.2,3.1,100,83.1,Overcast
+"Ambattur, Chennai, TN, India",01-09-21 15:30,79.6,,,47.5,0.08,,,20.1,27,3,100,83.6,Overcast
+"Ambattur, Chennai, TN, India",01-09-21 16:30,79.3,,,47.5,0.08,,,19.3,25.8,2.8,100,84,Overcast
+"Ambattur, Chennai, TN, India",01-09-21 17:30,79.1,,,47.5,0.08,,,18.6,24.6,2.7,100,84.5,Overcast
+"Ambattur, Chennai, TN, India",01-09-21 18:30,79,,,47.5,0.06,,,17.7,24.1,6.7,100,84.8,Overcast
+"Ambattur, Chennai, TN, India",01-09-21 19:30,78.8,,,47.5,0.06,,,16.9,23.6,10.7,100,85,Overcast
+"Ambattur, Chennai, TN, India",01-09-21 20:30,78.7,,,47.5,0.06,,,16.1,23,14.8,100,85.3,Overcast
+"Ambattur, Chennai, TN, India",01-09-21 21:30,78.8,,,47.5,0.06,,,16.3,23.4,10.7,100,85.5,Overcast
+"Ambattur, Chennai, TN, India",01-09-21 22:30,78.8,,,47.5,0.06,,,16.4,23.8,6.5,100,85.8,Overcast
+"Ambattur, Chennai, TN, India",01-09-21 23:30,78.9,,,47.5,0.06,,,16.6,24.2,2.4,100,86,Overcast
+"Ambattur, Chennai, TN, India",01-10-21 0:30,78.7,,,57,0.12,,,16.3,23.2,2.6,100,86.3,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-10-21 1:30,78.5,,,57,0.12,,,16,22.2,2.8,100,86.7,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-10-21 2:30,78.3,,,57,0.12,,,15.7,21.3,3,100,87,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-10-21 3:30,78.4,,,57,0.09,,,14.9,20.5,3.2,100,86.6,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-10-21 4:30,78.5,,,57,0.09,,,14.2,19.8,3.3,100,86.3,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-10-21 5:30,78.5,,,57,0.09,,,13.4,19,3.4,100,85.9,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-10-21 6:30,79,,,47.5,0.06,,,13,18.8,4,100,84.8,Overcast
+"Ambattur, Chennai, TN, India",01-10-21 7:30,79.5,,,47.5,0.06,,,12.5,18.6,4.5,100,83.6,Overcast
+"Ambattur, Chennai, TN, India",01-10-21 8:30,80,,,47.5,0.06,,,12.1,18.3,5.1,100,82.5,Overcast
+"Ambattur, Chennai, TN, India",01-10-21 9:30,80.7,,85.7,47.5,0.01,,,12.2,17.9,8.4,98.7,80,Overcast
+"Ambattur, Chennai, TN, India",01-10-21 10:30,81.4,,86.8,47.5,0.01,,,12.4,17.4,11.7,97.3,77.5,Overcast
+"Ambattur, Chennai, TN, India",01-10-21 11:30,82.1,,87.9,47.5,0.01,,,12.5,17,15,96,75,Overcast
+"Ambattur, Chennai, TN, India",01-10-21 12:30,82.3,,88.1,57,0,,,12,15.8,15,97.3,74.3,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-10-21 13:30,82.5,,88.3,57,0,,,11.5,14.6,15,98.7,73.7,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-10-21 14:30,82.7,,88.5,57,0,,,11,13.4,15,100,73,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-10-21 15:30,82.1,,87.7,57,0,,,10.7,13.5,15,100,75,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-10-21 16:30,81.5,,86.9,57,0,,,10.4,13.6,15,100,77,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-10-21 17:30,80.9,,86,57,0,,,10.1,13.6,15,100,79,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-10-21 18:30,80.6,,85.5,28.6,0,,,10.4,14.9,15,97.3,79.9,Overcast
+"Ambattur, Chennai, TN, India",01-10-21 19:30,80.3,,84.9,28.6,0,,,10.8,16.2,15,94.7,80.9,Overcast
+"Ambattur, Chennai, TN, India",01-10-21 20:30,80,,,28.6,0,,,11.2,17.4,15,92,81.8,Overcast
+"Ambattur, Chennai, TN, India",01-10-21 21:30,79.8,,,28.6,0.02,,,10.9,17.4,13.2,77.7,81.9,Overcast
+"Ambattur, Chennai, TN, India",01-10-21 22:30,79.6,,,28.6,0.02,,,10.6,17.3,11.4,63.3,81.9,Partially cloudy
+"Ambattur, Chennai, TN, India",01-10-21 23:30,79.4,,,28.6,0.02,,,10.3,17.2,9.6,49,82,Partially cloudy
+"Ambattur, Chennai, TN, India",01-11-21 0:30,79.2,,,33.2,0,,,9.4,15.5,11.4,34,82,Partially cloudy
+"Ambattur, Chennai, TN, India",01-11-21 1:30,79.1,,,33.2,0,,,8.5,13.8,13.2,19,82.1,Clear
+"Ambattur, Chennai, TN, India",01-11-21 2:30,78.9,,,33.2,0,,,7.6,12.1,15,4,82.1,Clear
+"Ambattur, Chennai, TN, India",01-11-21 3:30,78.8,,,33.2,0.01,,,7,11.3,14.8,11.3,82.7,Clear
+"Ambattur, Chennai, TN, India",01-11-21 4:30,78.6,,,33.2,0.01,,,6.4,10.4,14.6,18.7,83.3,Clear
+"Ambattur, Chennai, TN, India",01-11-21 5:30,78.5,,,33.2,0.01,,,5.8,9.6,14.5,26,83.9,Partially cloudy
+"Ambattur, Chennai, TN, India",01-11-21 6:30,79.1,,,47.5,0.01,,,5.7,9.3,12.8,28,82.4,Partially cloudy
+"Ambattur, Chennai, TN, India",01-11-21 7:30,79.7,,,47.5,0.01,,,5.5,9,11.1,30,80.8,Partially cloudy
+"Ambattur, Chennai, TN, India",01-11-21 8:30,80.3,,84.8,47.5,0.01,,,5.4,8.7,9.4,32,79.3,Partially cloudy
+"Ambattur, Chennai, TN, India",01-11-21 9:30,81.1,,85.9,47.5,0,,,6,8.6,11.3,34.3,76.5,Partially cloudy
+"Ambattur, Chennai, TN, India",01-11-21 10:30,81.8,,86.8,47.5,0,,,6.7,8.4,13.1,36.7,73.7,Partially cloudy
+"Ambattur, Chennai, TN, India",01-11-21 11:30,82.5,,87.6,47.5,0,,,7.4,8.3,15,39,70.9,Partially cloudy
+"Ambattur, Chennai, TN, India",01-11-21 12:30,82.1,,87.1,52.4,0,,,7.1,8,15,57,72,"Rain, Partially cloudy"
+"Ambattur, Chennai, TN, India",01-11-21 13:30,81.8,,86.7,52.4,0,,,6.8,7.7,15,75,73.2,"Rain, Partially cloudy"
+"Ambattur, Chennai, TN, India",01-11-21 14:30,81.4,,86.2,52.4,0,,,6.5,7.4,15,93,74.3,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-11-21 15:30,81.1,,85.9,52.4,0,,,7,8.3,15,90,76.1,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-11-21 16:30,80.8,,85.6,52.4,0,,,7.5,9.2,15,87,78,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-11-21 17:30,80.5,,85.3,52.4,0,,,8.1,10.1,15,84,79.8,"Rain, Overcast"
+"Ambattur, Chennai, TN, India",01-11-21 18:30,80.1,,84.6,33.2,0,,,7.7,9.8,15,89.3,81.5,Overcast
+"Ambattur, Chennai, TN, India",01-11-21 19:30,79.7,,,33.2,0,,,7.3,9.5,15,94.7,83.3,Overcast
+"Ambattur, Chennai, TN, India",01-11-21 20:30,79.2,,,33.2,0,,,6.9,9.2,15,100,85,Overcast
+"Ambattur, Chennai, TN, India",01-11-21 21:30,79,,,33.2,0,,,7,9.3,15,94.3,85.6,Overcast
+"Ambattur, Chennai, TN, India",01-11-21 22:30,78.8,,,33.2,0,,,7.1,9.5,15,88.7,86.3,Overcast
+"Ambattur, Chennai, TN, India",01-11-21 23:30,78.5,,,33.2,0,,,7.2,9.6,15,83,86.9,Overcast
+"Ambattur, Chennai, TN, India",01-12-21 0:30,78.3,,,47.5,0,,,6.6,8.9,15,57.3,87.2,Partially cloudy
+"Ambattur, Chennai, TN, India",01-12-21 1:30,78.1,,,47.5,0,,,6,8.1,15,31.7,87.5,Partially cloudy
+"Ambattur, Chennai, TN, India",01-12-21 2:30,77.8,,,47.5,0,,,5.4,7.4,15,6,87.8,Clear
+"Ambattur, Chennai, TN, India",01-12-21 3:30,77.7,,,47.5,0,,,4.4,6.2,15,20.3,87.4,Clear
+"Ambattur, Chennai, TN, India",01-12-21 4:30,77.6,,,47.5,0,,,3.4,5,15,34.7,87,Partially cloudy
+"Ambattur, Chennai, TN, India",01-12-21 5:30,77.4,,,47.5,0,,,2.5,3.8,15,49,86.6,Partially cloudy
+"Ambattur, Chennai, TN, India",01-12-21 6:30,78,,,28.6,0,,,2.9,4.2,15,38,85.2,Partially cloudy
+"Ambattur, Chennai, TN, India",01-12-21 7:30,78.5,,,28.6,0,,,3.4,4.5,15,27,83.8,Partially cloudy
+"Ambattur, Chennai, TN, India",01-12-21 8:30,79.1,,,28.6,0,,,3.8,4.9,15,16,82.4,Clear
+"Ambattur, Chennai, TN, India",01-12-21 9:30,80,,,28.6,0,,,4.7,5,15,14.3,78.4,Clear
+"Ambattur, Chennai, TN, India",01-12-21 10:30,80.9,,85.1,28.6,0,,,5.6,5.1,15,12.7,74.5,Clear
+"Ambattur, Chennai, TN, India",01-12-21 11:30,81.8,,86.1,28.6,0,,,6.5,5.1,15,11,70.5,Clear
+"Ambattur, Chennai, TN, India",01-12-21 12:30,81.7,,86,19,0,,,7.3,6.1,15,7.3,70.4,Clear
+"Ambattur, Chennai, TN, India",01-12-21 13:30,81.7,,85.8,19,0,,,8.1,7.1,15,3.7,70.2,Clear
+"Ambattur, Chennai, TN, India",01-12-21 14:30,81.6,,85.7,19,0,,,8.9,8.1,15,0,70.1,Clear
+"Ambattur, Chennai, TN, India",01-12-21 15:30,81.1,,85,19,0,,,8.8,8.5,15,0,71.7,Clear
+"Ambattur, Chennai, TN, India",01-12-21 16:30,80.5,,84.3,19,0,,,8.6,8.9,15,0,73.3,Clear
+"Ambattur, Chennai, TN, India",01-12-21 17:30,80,,,19,0,,,8.5,9.4,15,0,74.9,Clear
+"Ambattur, Chennai, TN, India",01-12-21 18:30,79.7,,,14.3,0,,,7.7,8.8,15,0,76.2,Clear
+"Ambattur, Chennai, TN, India",01-12-21 19:30,79.4,,,14.3,0,,,6.9,8.2,15,0,77.6,Clear
+"Ambattur, Chennai, TN, India",01-12-21 20:30,79.1,,,14.3,0,,,6,7.6,15,0,78.9,Clear
+"Ambattur, Chennai, TN, India",01-12-21 21:30,78.8,,,14.3,0,,,5.5,6.9,15,0,79.5,Clear
+"Ambattur, Chennai, TN, India",01-12-21 22:30,78.5,,,14.3,0,,,5,6.3,15,0,80,Clear
+"Ambattur, Chennai, TN, India",01-12-21 23:30,78.2,,,14.3,0,,,4.5,5.6,15,0,80.6,Clear
+"Ambattur, Chennai, TN, India",01/13/2021 00:30:00,77.9,,,14.3,0,,,3.8,4.8,15,0.7,80.2,Clear
+"Ambattur, Chennai, TN, India",01/13/2021 01:30:00,77.6,,,14.3,0,,,3.1,4,15,1.3,79.9,Clear
+"Ambattur, Chennai, TN, India",01/13/2021 02:30:00,77.3,,,14.3,0,,,2.5,3.1,15,2,79.5,Clear
+"Ambattur, Chennai, TN, India",01/13/2021 03:30:00,77,,,14.3,0,,,2.1,2.5,15,18,79.9,Clear
+"Ambattur, Chennai, TN, India",01/13/2021 04:30:00,76.7,,,14.3,0,,,1.7,1.8,15,34,80.4,Partially cloudy
+"Ambattur, Chennai, TN, India",01/13/2021 05:30:00,76.4,,,14.3,0,,,1.3,1.1,15,50,80.8,Partially cloudy
+"Ambattur, Chennai, TN, India",01/13/2021 06:30:00,76.8,,,23.7,0,,,1.9,1.5,15,53.7,80,Partially cloudy
+"Ambattur, Chennai, TN, India",01/13/2021 07:30:00,77.2,,,23.7,0,,,2.5,1.9,15,57.3,79.3,Partially cloudy
+"Ambattur, Chennai, TN, India",01/13/2021 08:30:00,77.6,,,23.7,0,,,3.1,2.2,15,61,78.5,Partially cloudy
+"Ambattur, Chennai, TN, India",01/13/2021 09:30:00,79,,,23.7,0,,,3.8,2.5,15,52.3,73.7,Partially cloudy
+"Ambattur, Chennai, TN, India",01/13/2021 10:30:00,80.3,,83.2,23.7,0,,,4.5,2.7,15,43.7,68.8,Partially cloudy
+"Ambattur, Chennai, TN, India",01/13/2021 11:30:00,81.6,,84.5,23.7,0,,,5.1,2.9,15,35,64,Partially cloudy
+"Ambattur, Chennai, TN, India",01/13/2021 12:30:00,81.6,,84.5,28.6,0,,,6.6,4,15,23.3,63.7,Clear
+"Ambattur, Chennai, TN, India",01/13/2021 13:30:00,81.6,,84.5,28.6,0,,,8,5,15,11.7,63.5,Clear
+"Ambattur, Chennai, TN, India",01/13/2021 14:30:00,81.6,,84.4,28.6,0,,,9.4,6,15,0,63.2,Clear
+"Ambattur, Chennai, TN, India",01/13/2021 15:30:00,80.8,,83.6,28.6,0,,,9.7,8.1,15,0,65.3,Clear
+"Ambattur, Chennai, TN, India",01/13/2021 16:30:00,80,,82.7,28.6,0,,,10,10.1,15,0,67.4,Clear
+"Ambattur, Chennai, TN, India",01/13/2021 17:30:00,79.2,,,28.6,0,,,10.3,12.1,15,0,69.5,Clear
+"Ambattur, Chennai, TN, India",01/13/2021 18:30:00,78.9,,,9.5,0,,,9.8,11.9,15,0,70.9,Clear
+"Ambattur, Chennai, TN, India",01/13/2021 19:30:00,78.5,,,9.5,0,,,9.2,11.8,15,0,72.4,Clear
+"Ambattur, Chennai, TN, India",01/13/2021 20:30:00,78.2,,,9.5,0,,,8.7,11.6,15,0,73.8,Clear
+"Ambattur, Chennai, TN, India",01/13/2021 21:30:00,77.9,,,9.5,0,,,7.6,10.1,15,0,74.2,Clear
+"Ambattur, Chennai, TN, India",01/13/2021 22:30:00,77.7,,,9.5,0,,,6.5,8.6,15,0,74.7,Clear
+"Ambattur, Chennai, TN, India",01/13/2021 23:30:00,77.4,,,9.5,0,,,5.4,7.2,15,0,75.1,Clear
+"Ambattur, Chennai, TN, India",01/14/2021 00:30:00,77.1,,,28.6,0,,,4.5,6,15,0,74.9,Clear
+"Ambattur, Chennai, TN, India",01/14/2021 01:30:00,76.7,,,28.6,0,,,3.7,4.9,15,0,74.7,Clear
+"Ambattur, Chennai, TN, India",01/14/2021 02:30:00,76.4,,,28.6,0,,,2.9,3.8,15,0,74.5,Clear
+"Ambattur, Chennai, TN, India",01/14/2021 03:30:00,75.8,,,28.6,0,,,3.1,3.7,15,0,75.8,Clear
+"Ambattur, Chennai, TN, India",01/14/2021 04:30:00,75.3,,,28.6,0,,,3.4,3.7,15,0,77,Clear
+"Ambattur, Chennai, TN, India",01/14/2021 05:30:00,74.7,,,28.6,0,,,3.6,3.6,15,0,78.3,Clear
+"Ambattur, Chennai, TN, India",01/14/2021 06:30:00,75.3,,,19,0,,,3.5,3.6,15,0,77,Clear
+"Ambattur, Chennai, TN, India",01/14/2021 07:30:00,75.8,,,19,0,,,3.4,3.6,15,0,75.8,Clear
+"Ambattur, Chennai, TN, India",01/14/2021 08:30:00,76.4,,,19,0,,,3.4,3.6,15,0,74.5,Clear
+"Ambattur, Chennai, TN, India",01/14/2021 09:30:00,77.9,,,19,0,,,4.5,4.6,15,0,69.9,Clear
+"Ambattur, Chennai, TN, India",01/14/2021 10:30:00,79.4,,,19,0,,,5.6,5.7,15,0,65.3,Clear
+"Ambattur, Chennai, TN, India",01/14/2021 11:30:00,80.9,,83,19,0,,,6.7,6.7,15,0,60.7,Clear
+"Ambattur, Chennai, TN, India",01/14/2021 12:30:00,81.1,,83.2,19,0,,,7.4,7.1,15,0,59.8,Clear
+"Ambattur, Chennai, TN, India",01/14/2021 13:30:00,81.3,,83.3,19,0,,,8.1,7.5,15,0,58.8,Clear
+"Ambattur, Chennai, TN, India",01/14/2021 14:30:00,81.6,,83.5,19,0,,,8.7,7.8,15,0,57.9,Clear
+"Ambattur, Chennai, TN, India",01/14/2021 15:30:00,80.9,,83,19,0,,,8.4,8,15,0,60,Clear
+"Ambattur, Chennai, TN, India",01/14/2021 16:30:00,80.3,,82.4,19,0,,,8,8.1,15,0,62.2,Clear
+"Ambattur, Chennai, TN, India",01/14/2021 17:30:00,79.6,,,19,0,,,7.6,8.3,15,0,64.3,Clear
+"Ambattur, Chennai, TN, India",01/14/2021 18:30:00,79,,,9.5,0,,,7.2,8.3,15,0,66.3,Clear
+"Ambattur, Chennai, TN, India",01/14/2021 19:30:00,78.4,,,9.5,0,,,6.7,8.3,15,0,68.4,Clear
+"Ambattur, Chennai, TN, India",01/14/2021 20:30:00,77.8,,,9.5,0,,,6.3,8.3,15,0,70.4,Clear
+"Ambattur, Chennai, TN, India",01/14/2021 21:30:00,77.5,,,9.5,0,,,6.1,8.1,15,0,71.2,Clear
+"Ambattur, Chennai, TN, India",01/14/2021 22:30:00,77.2,,,9.5,0,,,6,7.8,15,0,72.1,Clear
+"Ambattur, Chennai, TN, India",01/14/2021 23:30:00,76.9,,,9.5,0,,,5.8,7.6,15,0,72.9,Clear
+"Ambattur, Chennai, TN, India",01/15/2021 00:30:00,76.6,,,14.3,0,,,5.3,7.1,15,0,73.1,Clear
+"Ambattur, Chennai, TN, India",01/15/2021 01:30:00,76.3,,,14.3,0,,,4.8,6.6,15,0,73.2,Clear
+"Ambattur, Chennai, TN, India",01/15/2021 02:30:00,76,,,14.3,0,,,4.3,6,15,0,73.4,Clear
+"Ambattur, Chennai, TN, India",01/15/2021 03:30:00,75.8,,,14.3,0,,,3.6,5.9,15,0,73.4,Clear
+"Ambattur, Chennai, TN, India",01/15/2021 04:30:00,75.5,,,14.3,0,,,2.9,5.7,15,0,73.5,Clear
+"Ambattur, Chennai, TN, India",01/15/2021 05:30:00,75.3,,,14.3,0,,,2.2,5.6,15,0,73.5,Clear
+"Ambattur, Chennai, TN, India",01/15/2021 06:30:00,76,,,9.5,0,,,2.6,6,15,0,72.2,Clear
+"Ambattur, Chennai, TN, India",01/15/2021 07:30:00,76.7,,,9.5,0,,,3,6.3,15,0,70.8,Clear
+"Ambattur, Chennai, TN, India",01/15/2021 08:30:00,77.4,,,9.5,0,,,3.4,6.7,15,0,69.5,Clear
+"Ambattur, Chennai, TN, India",01/15/2021 09:30:00,78.5,,,9.5,0,,,5.1,7.3,15,0,66.7,Clear
+"Ambattur, Chennai, TN, India",01/15/2021 10:30:00,79.6,,,9.5,0,,,6.9,7.9,15,0,63.8,Clear
+"Ambattur, Chennai, TN, India",01/15/2021 11:30:00,80.7,,82.8,9.5,0,,,8.7,8.5,15,0,61,Clear
+"Ambattur, Chennai, TN, India",01/15/2021 12:30:00,80.6,,82.7,14.3,0,,,8.7,8.6,15,0,60.8,Clear
+"Ambattur, Chennai, TN, India",01/15/2021 13:30:00,80.6,,82.6,14.3,0,,,8.7,8.6,15,0,60.6,Clear
+"Ambattur, Chennai, TN, India",01/15/2021 14:30:00,80.5,,82.5,14.3,0,,,8.7,8.7,15,0,60.4,Clear
+"Ambattur, Chennai, TN, India",01/15/2021 15:30:00,79.9,,,14.3,0,,,8.8,9.5,15,0,62.3,Clear
+"Ambattur, Chennai, TN, India",01/15/2021 16:30:00,79.3,,,14.3,0,,,8.9,10.2,15,0,64.1,Clear
+"Ambattur, Chennai, TN, India",01/15/2021 17:30:00,78.7,,,14.3,0,,,8.9,11,15,0,66,Clear
+"Ambattur, Chennai, TN, India",01/15/2021 18:30:00,78.2,,,0,0,,,8.7,10.8,15,11.7,68.5,Clear
+"Ambattur, Chennai, TN, India",01/15/2021 19:30:00,77.6,,,0,0,,,8.5,10.7,15,23.3,70.9,Clear
+"Ambattur, Chennai, TN, India",01/15/2021 20:30:00,77.1,,,0,0,,,8.3,10.5,15,35,73.4,Partially cloudy
+"Ambattur, Chennai, TN, India",01/15/2021 21:30:00,76.8,,,0,0,,,8.3,10.5,15,29,74.2,Partially cloudy
+"Ambattur, Chennai, TN, India",01/15/2021 22:30:00,76.6,,,0,0,,,8.3,10.5,15,23,75.1,Clear
+"Ambattur, Chennai, TN, India",01/15/2021 23:30:00,76.4,,,0,0,,,8.3,10.5,15,17,75.9,Clear
+"Ambattur, Chennai, TN, India",01/16/2021 00:30:00,76.1,,,9.5,0,,,8.1,10.4,15,11.7,76.6,Clear
+"Ambattur, Chennai, TN, India",01/16/2021 01:30:00,75.9,,,9.5,0,,,8,10.4,15,6.3,77.3,Clear
+"Ambattur, Chennai, TN, India",01/16/2021 02:30:00,75.6,,,9.5,0,,,7.8,10.3,15,1,78,Clear
+"Ambattur, Chennai, TN, India",01/16/2021 03:30:00,75.5,,,9.5,0,,,7.6,10.2,15,1.7,78.3,Clear
+"Ambattur, Chennai, TN, India",01/16/2021 04:30:00,75.3,,,9.5,0,,,7.4,10.1,15,2.3,78.7,Clear
+"Ambattur, Chennai, TN, India",01/16/2021 05:30:00,75.1,,,9.5,0,,,7.2,10.1,15,3,79,Clear
+"Ambattur, Chennai, TN, India",01/16/2021 06:30:00,75.7,,,19,0,,,7,10.1,15,28.3,77.4,Partially cloudy
+"Ambattur, Chennai, TN, India",01/16/2021 07:30:00,76.3,,,19,0,,,6.9,10.1,15,53.7,75.9,Partially cloudy
+"Ambattur, Chennai, TN, India",01/16/2021 08:30:00,76.9,,,19,0,,,6.7,10.1,15,79,74.3,Overcast
+"Ambattur, Chennai, TN, India",01/16/2021 09:30:00,78,,,19,0,,,7.8,10.1,15,69,71.2,Partially cloudy
+"Ambattur, Chennai, TN, India",01/16/2021 10:30:00,79.1,,,19,0,,,8.8,10.1,15,59,68.1,Partially cloudy
+"Ambattur, Chennai, TN, India",01/16/2021 11:30:00,80.1,,82.6,19,0,,,9.8,10.1,15,49,65,Partially cloudy
+"Ambattur, Chennai, TN, India",01/16/2021 12:30:00,80.2,,82.7,9.5,0,,,9.8,10.1,15,32.7,65,Partially cloudy
+"Ambattur, Chennai, TN, India",01/16/2021 13:30:00,80.3,,82.7,9.5,0,,,9.7,10.1,15,16.3,65,Clear
+"Ambattur, Chennai, TN, India",01/16/2021 14:30:00,80.3,,82.8,9.5,0,,,9.6,10.1,15,0,65,Clear
+"Ambattur, Chennai, TN, India",01/16/2021 15:30:00,79.7,,,9.5,0,,,9.5,10.4,15,0,66.8,Clear
+"Ambattur, Chennai, TN, India",01/16/2021 16:30:00,79.1,,,9.5,0,,,9.5,10.8,15,0,68.7,Clear
+"Ambattur, Chennai, TN, India",01/16/2021 17:30:00,78.5,,,9.5,0,,,9.4,11.2,15,0,70.5,Clear
+"Ambattur, Chennai, TN, India",01/16/2021 18:30:00,78.2,,,9.5,0,,,9.2,11.2,15,0,72.1,Clear
+"Ambattur, Chennai, TN, India",01/16/2021 19:30:00,77.8,,,9.5,0,,,8.9,11.2,15,0,73.7,Clear
+"Ambattur, Chennai, TN, India",01/16/2021 20:30:00,77.4,,,9.5,0,,,8.7,11.2,15,0,75.3,Clear
+"Ambattur, Chennai, TN, India",01/16/2021 21:30:00,77.1,,,9.5,0,,,8.1,10.2,15,0.7,76.3,Clear
+"Ambattur, Chennai, TN, India",01/16/2021 22:30:00,76.8,,,9.5,0,,,7.4,9.2,15,1.3,77.4,Clear
+"Ambattur, Chennai, TN, India",01/16/2021 23:30:00,76.6,,,9.5,0,,,6.7,8.3,15,2,78.4,Clear
+"Ambattur, Chennai, TN, India",01/17/2021 00:30:00,,,,,0,,,,,,,,
+"Ambattur, Chennai, TN, India",01/17/2021 01:30:00,,,,,0,,,,,,,,
+"Ambattur, Chennai, TN, India",01/17/2021 02:30:00,,,,,0,,,,,,,,
+"Ambattur, Chennai, TN, India",01/17/2021 03:30:00,,,,,0,,,,,,,,
+"Ambattur, Chennai, TN, India",01/17/2021 04:30:00,,,,,0,,,,,,,,
+"Ambattur, Chennai, TN, India",01/17/2021 05:30:00,,,,,0,,,,,,,,
+"Ambattur, Chennai, TN, India",01/17/2021 06:30:00,,,,,0,,,,,,,,
+"Ambattur, Chennai, TN, India",01/17/2021 07:30:00,,,,,0,,,,,,,,

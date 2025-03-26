@@ -1,0 +1,8 @@
+#KNN
+library(class)
+data(iris)
+train_idx <- sample(1:nrow(iris), 0.8 * nrow(iris))
+train <- iris[train_idx,]
+test <- iris[-train_idx,]
+knn_pred <- knn(train[, -5], test[, -5], train$Species, k = 3)
+table(knn_pred, test$Species)

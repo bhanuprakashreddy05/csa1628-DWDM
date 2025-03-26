@@ -1,0 +1,8 @@
+#EXPNO18
+# Create two vectors
+vector1 <- c(1, 2, 3)
+vector2 <- c(4, 5, 6)
+
+array_result <- array(c(vector1, vector2), dim = c(3, 3, 2))
+print(array_result)
+
